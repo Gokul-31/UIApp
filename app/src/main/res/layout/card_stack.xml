@@ -12,9 +12,9 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:id="@+id/cd_img"
+            android:id="@+id/cd_mov_vp"
             android:layout_width="0dp"
-            android:layout_height="400dp"
+            android:layout_height="300dp"
             android:scaleType="centerCrop"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -24,7 +24,7 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="0dp"
-            android:layout_height="229dp"
+            android:layout_height="0dp"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="1dp"
             android:background="@drawable/text1"
@@ -32,7 +32,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cd_img">
+            app:layout_constraintTop_toBottomOf="@+id/cd_mov_vp">
 
             <TextView
                 android:id="@+id/cd_dd"

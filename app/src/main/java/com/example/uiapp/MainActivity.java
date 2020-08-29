@@ -6,6 +6,7 @@ import androidx.constraintlayout.motion.widget.MotionLayout;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
+import android.view.MotionEvent;
 import android.view.View;
 
 import java.util.ArrayList;
@@ -32,12 +33,13 @@ public class MainActivity extends AppCompatActivity {
         adapter=new ViewPagerAdapter(movies,this);
         viewPager.setPageTransformer(true, new ViewPagerStack());
         viewPager.setAdapter(adapter);
+
     }
 
     private void initDummies() {
-        movies.add(new Movies(R.drawable.hb1,R.string.m1_title,R.string.m1_genre,R.string.m1_desc,R.string.m1_rating));
-        movies.add(new Movies(R.drawable.nusm,R.string.m2_title,R.string.m2_genre,R.string.m2_desc,R.string.m2_rating));
-        movies.add(new Movies(R.drawable.o11,R.string.m3_title,R.string.m3_genre,R.string.m3_desc,R.string.m3_rating));
+        movies.add(new Movies(R.mipmap.hb1,R.string.m1_title,R.string.m1_genre,R.string.m1_desc,R.string.m1_rating));
+        movies.add(new Movies(R.mipmap.nusm,R.string.m2_title,R.string.m2_genre,R.string.m2_desc,R.string.m2_rating));
+        movies.add(new Movies(R.mipmap.o11,R.string.m3_title,R.string.m3_genre,R.string.m3_desc,R.string.m3_rating));
 
     }
 

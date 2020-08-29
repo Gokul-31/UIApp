@@ -1,6 +1,8 @@
 package com.example.uiapp;
 
+import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,6 +13,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.motion.widget.MotionLayout;
+import androidx.core.app.ActivityOptionsCompat;
+import androidx.core.view.ViewCompat;
 import androidx.viewpager.widget.PagerAdapter;
 
 import java.util.ArrayList;
@@ -41,7 +45,7 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     @NonNull
     @Override
-    public Object instantiateItem(@NonNull ViewGroup container, int position) {
+    public Object instantiateItem(@NonNull final ViewGroup container, int position) {
 
         LayoutInflater layoutInflater=(LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         View view=layoutInflater.inflate(R.layout.card_stack,container,false);
@@ -51,13 +55,24 @@ public class ViewPagerAdapter extends PagerAdapter {
         TextView desc=(TextView) view.findViewById(R.id.cd_desc);
         TextView genre=(TextView) view.findViewById(R.id.cd_genre);
         TextView rating=(TextView) view.findViewById(R.id.cd_rating);
-        ImageView image=(ImageView) view.findViewById(R.id.cd_img);
+        final ImageView image=(ImageView) view.findViewById(R.id.cd_mov_vp);
 
         title.setText(context.getResources().getString(s.get(position).getName()));
         desc.setText(context.getResources().getString(s.get(position).getDesc()));
         genre.setText(context.getResources().getString(s.get(position).getGenre()));
         rating.setText(context.getResources().getString(s.get(position).getRating()));
-//        image.setBackgroundResource(s.get(position).getImageId());
+        image.setImageResource(s.get(position).getImageId());
+
+        view.setOnTouchListener(new OnSwipeTouchListener(context){
+            @Override
+            public void onSwipeBottom() {
+                Log.i(TAG, "onSwipeBottom");
+                //do the transition
+                Intent intent= new Intent(context,Movie.class);
+                ActivityOptionsCompat options=ActivityOptionsCompat.makeSceneTransitionAnimation((Activity) context,image, ViewCompat.getTransitionName(image));
+                context.startActivity(intent,options.toBundle());
+            }
+        });
 
         return view;
     }

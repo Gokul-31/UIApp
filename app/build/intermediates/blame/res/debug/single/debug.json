@@ -1,19 +1,19 @@
 [
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\activity_movie.xml"
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\hb2.jpg"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_stack_movie.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\card_stack_movie.xml"
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_o11b.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\o11b.jpg"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_mov_vid.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\mov_vid.xml"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text1.xml.flat",
@@ -32,6 +32,10 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\hb1.jpg"
     },
     {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_nusm2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\nusm2.jpg"
+    },
+    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -40,48 +44,12 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\nusm.jpg"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_nusm.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\nusm.jpg"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_selector.xml"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_o11.jpg.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\o11.jpg"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hb1.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\hb1.jpg"
-    },
-    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hb1.jpg.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\hb1.jpg"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_o11.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\o11.jpg"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_default.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_indicator_default.xml"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_selected.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_indicator_selected.xml"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nusm.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\nusm.jpg"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_o11.jpg.flat",
@@ -96,12 +64,8 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\hb1.jpg"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_o11.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\o11.jpg"
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_time.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\card_time.xml"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -116,12 +80,124 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\hb1.jpg"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_nusm.jpg.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\nusm.jpg"
-    },
-    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_hb1.jpg.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\hb1.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_stack.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\card_stack.xml"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\hb2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\hb2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_hbvv.mp4.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\raw\\hbvv.mp4"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\hb2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_nusm2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\nusm2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\hb2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_o11b.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\o11b.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_nusm.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\nusm.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_o11b.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\o11b.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_o11vv.mp4.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\raw\\o11vv.mp4"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hb1.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\hb1.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_hb3.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\hb3.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_o11.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\o11.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_default.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_indicator_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_selected.xml.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\tab_indicator_selected.xml"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hb3.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\hb3.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nusm.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable\\nusm.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_nusm2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\nusm2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_nusm2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\nusm2.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_o11.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\o11.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hb3.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\hb3.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_nusm.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\nusm.jpg"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -132,12 +208,16 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_nusm2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\nusm2.jpg"
+    },
+    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_stack.xml.flat",
-        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\layout\\card_stack.xml"
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_hb2.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\hb2.jpg"
     },
     {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_o11.jpg.flat",
@@ -160,11 +240,31 @@
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_hb3.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\hb3.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_o11b.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\o11b.jpg"
+    },
+    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_o11.jpg.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-mdpi\\o11.jpg"
     },
     {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_o11b.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xxhdpi\\o11b.jpg"
+    },
+    {
         "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_nusm.jpg.flat",
         "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-hdpi\\nusm.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hb3.jpg.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\mipmap-xhdpi\\hb3.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Delta Tasks\\UIApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_nusmvv.mp4.flat",
+        "source": "E:\\Android\\Delta Tasks\\UIApp\\app\\src\\main\\res\\raw\\nusmvv.mp4"
     }
 ]

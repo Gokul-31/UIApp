@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
-import androidx.constraintlayout.motion.widget.MotionLayout;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.core.app.ActivityOptionsCompat;
 import androidx.core.view.ViewCompat;
 import androidx.viewpager.widget.PagerAdapter;
@@ -25,8 +25,6 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     ArrayList<Movies> s;
     Context context;
-
-    MotionLayout motionLayout;
 
     public ViewPagerAdapter(ArrayList<Movies> s, Context context) {
         this.s = s;
@@ -45,7 +43,7 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     @NonNull
     @Override
-    public Object instantiateItem(@NonNull final ViewGroup container, int position) {
+    public Object instantiateItem(@NonNull final ViewGroup container, final int position) {
 
         LayoutInflater layoutInflater=(LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         View view=layoutInflater.inflate(R.layout.card_stack,container,false);
@@ -56,6 +54,8 @@ public class ViewPagerAdapter extends PagerAdapter {
         TextView genre=(TextView) view.findViewById(R.id.cd_genre);
         TextView rating=(TextView) view.findViewById(R.id.cd_rating);
         final ImageView image=(ImageView) view.findViewById(R.id.cd_mov_vp);
+
+        final ConstraintLayout constraintLayout=(ConstraintLayout)view.findViewById(R.id.trans_layout);
 
         title.setText(context.getResources().getString(s.get(position).getName()));
         desc.setText(context.getResources().getString(s.get(position).getDesc()));
@@ -69,11 +69,11 @@ public class ViewPagerAdapter extends PagerAdapter {
                 Log.i(TAG, "onSwipeBottom");
                 //do the transition
                 Intent intent= new Intent(context,Movie.class);
-                ActivityOptionsCompat options=ActivityOptionsCompat.makeSceneTransitionAnimation((Activity) context,image, ViewCompat.getTransitionName(image));
+                intent.putExtra("obj",s.get(position));
+                ActivityOptionsCompat options=ActivityOptionsCompat.makeSceneTransitionAnimation((Activity) context,constraintLayout, ViewCompat.getTransitionName(constraintLayout));
                 context.startActivity(intent,options.toBundle());
             }
         });
-
         return view;
     }
 

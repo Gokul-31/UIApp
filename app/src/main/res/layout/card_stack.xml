@@ -23,11 +23,13 @@
             android:transitionName="trans_top"/>
 
         <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/trans_layout"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="1dp"
             android:background="@drawable/text1"
+            android:transitionName="trans_bott"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"

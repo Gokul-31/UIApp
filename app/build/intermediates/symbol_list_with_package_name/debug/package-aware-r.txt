@@ -1683,7 +1683,6 @@ id cd_mov_desc
 id cd_mov_genre
 id cd_mov_outer
 id cd_mov_rating
-id cd_mov_session
 id cd_mov_title
 id cd_mov_vp
 id cd_rating
@@ -1778,6 +1777,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id img_view
 id info
 id invisible
 id italic
@@ -1935,6 +1935,8 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1951,6 +1953,7 @@ id toggle
 id top
 id topPanel
 id touch_outside
+id trans_layout
 id transitionToEnd
 id transitionToStart
 id transition_current_scene
@@ -1964,6 +1967,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vid_view
 id viewPager
 id view_offset_helper
 id visible
@@ -2035,7 +2039,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_movie
 layout card_stack
-layout card_stack_movie
+layout card_time
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2052,6 +2056,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout mov_vid
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2105,11 +2110,18 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 mipmap hb1
+mipmap hb2
+mipmap hb3
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap nusm
+mipmap nusm2
 mipmap o11
+mipmap o11b
 plurals mtrl_badge_content_description
+raw hbvv
+raw nusmvv
+raw o11vv
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

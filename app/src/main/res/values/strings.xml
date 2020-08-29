@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UIApp</string>
+    <string name="cake_or_pie">Cake or pie? I can tell a lot about you by which one you pick. It may seem silly, but cake people and pie people are really different. I know which one I hope you are, but that\'s not for me to decide. So, what is it? Cake or pie?</string>
+    <string name="m1_desc">The world\'s top protection agent is called upon to guard the life of his mortal enemy, one of the world\'s most notorious hit men. The relentless bodyguard and manipulative assassin have been on the opposite end of the bullet for years and are thrown together for a wildly outrageous 24 hours. During their journey from England to the Hague, they encounter high-speed car chases, outlandish boat escapades and a merciless Eastern European dictator who is out for blood.</string>
+    <string name="m1_title">The Hitman\'s Bodyguard</string>
+    <string name="m1_rating">IMDb: 6.9/10</string>
+    <string name="m1_genre">Action/Comedy</string>
+
+    <string name="m2_desc">The Now You See Me film series, consists of heist thriller films written by Ed Solomon, Boaz Yakin, and Edward Ricourt. The plot centers around the actions of a team of illusionists named "The Horsemen" who pull off near impossible heists.</string>
+    <string name="m2_title">Now You See Me</string>
+    <string name="m2_rating">IMDb: 7.3/10</string>
+    <string name="m2_genre">Action</string>
+
+    <string name="m3_desc">Danny Ocean, a gangster, assembles a group of eleven people in an effort to steal money from three popular casinos in Las Vegas owned by his rival, Terry Benedict.</string>
+    <string name="m3_title">Ocean\'s Eleven</string>
+    <string name="m3_rating">IMDb: 7.7/10</string>
+    <string name="m3_genre">Comedy/Heist</string>
+
+</resources>
